@@ -1,0 +1,1 @@
+creación de la carpeta para poder subir imagenes a tu repositorio de GitHub
