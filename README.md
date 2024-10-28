@@ -3,7 +3,7 @@
 ---
 ---
 
-  ![programación](G:\Mi unidad\1ºDAM\Lenguaje de Marcas y Sistemas de Gestión de Información)
+  ![ordenador](C:\Users\user\AppData\Local\Temp\Rar$DIa11056.25199\images.jpeg)
   
 > “El secreto del cambio es enfocar toda tu Energía,   
 >  no en luchar contra lo viejo,   
@@ -15,8 +15,8 @@
 ---
 - 👑 Hola, soy Inmaculada López López 
 - 📧 <2516910@alu.murciaeduca.es>
-- ✏ Matriculada en el 1º Curso de Formación Profesional de Grado Superior Desarrollo de Aplicaciones Multiplataforma  
-- 🏫 En el C.I.F.P. a Distancia [La Conservera] [centro] extensión en [IES Los Albares] [centro donde se imparte]  
+- ✏ Matriculada en el 1º Curso de [Ciclos Formativos de Grado Superior Desarrollo de Aplicaciones Multiplataforma](boe "Vocational training")
+- 🏫 En el C.I.F.P. a Distancia [La Conservera](https://sites.google.com/view/fplaconservera) extensión en [IES Los Albares](https://www.ieslosalbares.es/)  
 - 👣 Espero con este grado el poder enfocar mi futuro como programadora  
 
 
@@ -132,6 +132,6 @@
 
 
 
-[centro donde se imparte ]: https://www.ieslosalbares.es/
-[centro]: https://www.ieslosalbares.es/laconservera/2022/09/06/hola-mundo/
+
+
 [boe]: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-13221
