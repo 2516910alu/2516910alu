@@ -1,18 +1,20 @@
 ## 2516910alu 
 
 ---
----
-
-  ![ordenador](C:\Users\user\AppData\Local\Temp\Rar$DIa11056.25199\images.jpeg)
-  
-> “El secreto del cambio es enfocar toda tu Energía,   
->  no en luchar contra lo viejo,   
-> sino en Construir lo nuevo.”   
-> Sócrates.
+<div align="center">
+  <blockquote>
+    <i>  
+    “El secreto del cambio es enfocar toda tu Energía,<br>   
+    no en luchar contra lo viejo,<br>   
+    sino en Construir lo nuevo.”<br>   
+    </i>      
+  <footer> — Sócrates <br>
+    </footer>
+    </blockquote>
+</div>    
 
 ### Presentación
 
----
 - 👑 Hola, soy Inmaculada López López 
 - 📧 <2516910@alu.murciaeduca.es>
 - ✏ Matriculada en el 1º Curso de [Ciclos Formativos de Grado Superior Desarrollo de Aplicaciones Multiplataforma](boe "Vocational training")
@@ -27,7 +29,7 @@
 
 ### Todas las Asignaturas de primero son:  
 
----
+
 
 * DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS  
 * LENGUAJES DE MARCAS Y SISTEMAS DE GESTIÓN DE INFORMACIÓN  
@@ -40,10 +42,9 @@
 * ~~FASE DE EMPRESA antes conocido como Empresas e Iniciativa Emprendedora~~ ***Aprobada y convalidada***  
 
 
+---
 
 ### Stack Tecnológico Conocido:
-
----
 
 ##### *¿Cuales conozco y porque?*
 
@@ -59,10 +60,10 @@
     - SQL
 
 
+---
 
 ### Stack Tecnológico del Curso:
 
----
 
 ##### *¿Qué tecnologías y herramientas se usarán en el curso?*
 
@@ -95,6 +96,7 @@
     * Máquinas virtuales 
     * Herramientas para documentación
     * Herramientas para refactorización de código
+      
 1. **Entornos de Desarrollo Integrados (IDE)**:
 
   | **Eclipse** | **NetBeans** | **VisualStudio** | **VisualStudioCode** |
@@ -107,11 +109,10 @@
   
 
 
-
+---
 
 ### Preferencias Tecnológicas:
 
----
 
  ##### *¿En que me especilizaré?*
 
