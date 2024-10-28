@@ -45,6 +45,20 @@
 
 ##### *¿Cuales conozco y porque?*
 
+
+ 
+```programa básico en java 
+class Hola {
+
+    public static void main( String[] args ) {
+    
+        System.out.println("¡Hola mundo!");
+        
+    } 
+}
+```
+
+
 - Sistemas informáticos: 
     - Máquina virtual
         - Windows, linux,.. 
@@ -135,21 +149,21 @@
 **[[⬆]](#toc) regresar a la Presentación**
 
 ---
-<br><br>
+<br>
 
 <img src="carpeta_imagenes/foto sovrates.png" width="120px" height="120px" align="right" alt="logo">
-<div align="center"> 
-    <i>  
-    “El secreto del cambio es enfocar toda tu Energía,<br>   
-    no en luchar contra lo viejo,<br>   
-    sino en Construir lo nuevo.”<br>   
-    </i>      
-  <footer> — Sócrates <br>
-    </footer>
-    </blockquote>
+
+<div align="center">
+
+> *"El secreto del cambio es enfocar toda tu Energía,  
+> no en luchar contra lo viejo,  
+> sino en Construir lo nuevo."*
+> 
+> — Sócrates
+
 </div>    
 
-<br>
+<br><br>
 
 **[[⬆]](#toc) regresar a la Presentación**   
 
