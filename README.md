@@ -1,17 +1,6 @@
 ## 2516910alu 
 
----
-<div align="center">
-  <blockquote>
-    <i>  
-    “El secreto del cambio es enfocar toda tu Energía,<br>   
-    no en luchar contra lo viejo,<br>   
-    sino en Construir lo nuevo.”<br>   
-    </i>      
-  <footer> — Sócrates <br>
-    </footer>
-    </blockquote>
-</div>    
+ 
 
 ### Presentación
 
@@ -131,7 +120,18 @@
     * Generación de insights para la toma de decisiones
 
 
-
+---
+<div align="center">
+  <blockquote>
+    <i>  
+    “El secreto del cambio es enfocar toda tu Energía,<br>   
+    no en luchar contra lo viejo,<br>   
+    sino en Construir lo nuevo.”<br>   
+    </i>      
+  <footer> — Sócrates <br>
+    </footer>
+    </blockquote>
+</div>   
 
 
 
