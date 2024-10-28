@@ -1,5 +1,8 @@
 ## 2516910alu 
 
+
+
+
  <p align="center">
   <img width="460" height="300" src="https://picsum.photos/460/300">
 </p>
@@ -62,8 +65,9 @@
 
 
 1. **Lenguajes de programación** (son lenguajes estructurados y orientados a objetos), como:  
-    * Java,
-    * C#...
+    * ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+    * ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+    * ...
       
 1. **Herramientas de desarrollo**
     * Herramientas para la edición de programas.
