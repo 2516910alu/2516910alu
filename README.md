@@ -4,22 +4,23 @@
 
 
  <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="300" height="200" src="carpeta_imagenes/imagenordenador.jpg.jpeg">
 </p>
 
 ### <a name="toc">Presentación</a>
 
 - 👑 Hola, soy Inmaculada López López 
 - 📧 <2516910@alu.murciaeduca.es>
-- ✏ Matriculada en el 1º Curso de [Ciclos Formativos de Grado Superior Desarrollo de Aplicaciones Multiplataforma](boe "Vocational training")
+- ✏ Matriculada en el 1º Curso de [Ciclos Formativos de Grado Superior Desarrollo de Aplicaciones Multiplataforma](https://es.wikipedia.org/wiki/Ciclos_formativos_de_grado_superior "Vocational training")
 - 🏫 En el C.I.F.P. a Distancia [La Conservera](https://sites.google.com/view/fplaconservera) extensión en [IES Los Albares](https://www.ieslosalbares.es/)  
 - 👣 Espero con este grado el poder enfocar mi futuro como programadora  
 
-
+<br>
 
 ### 📎 ¿Qué dice la [ley] sobre este curso? [boe]
 
 ---
+<br>
 
 ### Todas las Asignaturas de primero son:  
 
@@ -38,6 +39,7 @@
 **[[⬆]](#toc) regresar a la Presentación**
 
 ---
+<br>
 
 ### Stack Tecnológico Conocido:
 
@@ -57,6 +59,7 @@
 **[[⬆]](#toc) regresar a la Presentación**
 
 ---
+<br>
 
 ### Stack Tecnológico del Curso:
 
@@ -108,6 +111,7 @@
 **[[⬆]](#toc) regresar a la Presentación**
 
 ---
+<br>
 
 ### Preferencias Tecnológicas:
 
@@ -131,8 +135,10 @@
 **[[⬆]](#toc) regresar a la Presentación**
 
 ---
-<div align="center">
-  <blockquote>
+<br><br>
+
+<img src="carpeta_imagenes/foto sovrates.png" width="120px" height="120px" align="right" alt="logo">
+<div align="center"> 
     <i>  
     “El secreto del cambio es enfocar toda tu Energía,<br>   
     no en luchar contra lo viejo,<br>   
@@ -141,9 +147,11 @@
   <footer> — Sócrates <br>
     </footer>
     </blockquote>
-</div>   
+</div>    
 
-**[[⬆]](#toc) regresar a la Presentación**
+<br>
+
+**[[⬆]](#toc) regresar a la Presentación**   
 
 
 [boe]: https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-13221
