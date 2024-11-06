@@ -130,7 +130,7 @@ class Hola {
 ### Preferencias Tecnológicas:
 
 
- ##### *¿En que me especilizaré?*
+ ##### *Posible futuro:*
 
 - Full-stack (un desarrollador full-stack que combina habilidades de frontend y backend. Son capaces de trabajar en todas las capas de una aplicación web, desde la interfaz de usuario hasta la lógica del servidor y las bases de datos).
 - Diseño UI/UX se centra en:
